@@ -1,0 +1,41 @@
+.CoordinateMappingDiv {
+    width: 100%;
+    display: flex;
+    /* justify-content: space-between; */
+    /* background-color: wheat; */
+    align-items: center;
+}
+
+.CanvasDiv {
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* height: 95vh; */
+}
+
+.RectDiv {
+    
+}
+
+.InputDiv {
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.InputDiv>* {
+    margin: 10px 15px;
+}
+
+#myCanvas {
+    /* width: 80%; */
+    /* height: 60%; */
+    background-color: black;
+    /* background-image: url("../public/imgs/certi.png"); */
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.sideBar {
+    width: 50%;
+}
